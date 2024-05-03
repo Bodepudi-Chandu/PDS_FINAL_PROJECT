@@ -1,1 +1,4 @@
-# PDS_FINAL_PROJECT
+# SPEECH EMOTION RECOGNITION
+
+The latest developments in deep learning, specially convolutional neural networks (CNNs) and long short-term memory (LSTM) networks have greatly improved speech emotion recognition (SER). CNNs excel at extracting relevant characteristics from raw speech spectrograms, but LSTMs are efficient at capturing long-term dependencies within speech sequences. A common technique combines two architectures, with CNNs extracting discriminative features and LSTMs incorporating contextual data. Data augmentation techniques, such as vocal tract length perturbation, improve model resilience, while ensemble approaches and graph neural networks boost performance even further. Despite obtaining weighted accuracies of 65-72% on benchmark datasets, hurdles remain in handling noisy environments, modeling complex speech dynamics, and achieving human-level performance. Nonetheless, CNN+LSTM architectures remain an adaptable and effective foundation for SER, demonstrating promise in interpreting emotional states from audio..
+Data Link:https://drive.google.com/file/d/1wWsrN2Ep7x6lWqOXfr4rpKGYrJhWc8z7/view
